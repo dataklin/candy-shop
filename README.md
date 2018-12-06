@@ -1,2 +1,2 @@
 # candy-shop
-website for local candy
+A test case of publishing website using Cloud9 and GitHub.
